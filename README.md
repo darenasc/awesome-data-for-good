@@ -20,6 +20,10 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [OECD AI Policy Observatory](https://oecd.ai/en/). We provide data and multi-disciplinary analysis on artificial intelligence. Our diverse global community of partners makes this platform a unique source of information and dialogue on AI.
 * [ThinkTech NGO](https://www.thinktech.ngo). ThinkTech is a politically neutral non-governmental organisation. We are committed to the independence and autonomy of ThinkTech’s projects and do not accept funding that is conditioned upon conducting research in a particular manner, achieving a particular result, or taking a predetermined position.
 
+## Research Labs
+* [Meta's Data for Good](https://dataforgood.facebook.com/dfg/about).
+* [Microsoft's AI For Good Research Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/).
+
 ## Standards and Guidelines
 * [Digital Public Goods Standard](https://digitalpublicgoods.net/standard/). The Digital Public Goods Standard is a set of specifications and guidelines designed to maximise consensus about whether a digital solution conforms to the definition of a digital public good.
 * [Principles for Digital Development](https://digitalprinciples.org). The Principles for Digital Development are nine living guidelines that are designed to help integrate best practices into technology-enabled programs and are intended to be updated and refined over time.
