@@ -2,6 +2,19 @@
 
 This repository contains a curated list of resources about Data for Good, Data Science for Social Good [Public].
 
+## Data Science for Social Good Summer Programs
+* [Projects 2022 eScience Institute](https://escience.washington.edu/2022-data-science-for-social-good-projects/)
+
+## Ethics
+
+## Funding
+* [Skoll Foundation](https://skoll.org). We invest in social entrepreneurs and other social innovators who offer a compelling vision, creative solutions, and proven approaches.
+* [X-Prize Foundation](https://www.xprize.org). A trusted, proven platform for impact that leverages the power of competition to catalyze innovation and accelerate a more hopeful future by incentivizing radical breakthroughs for the benefit of humanity.
+
+## Global projects
+* [UN Sustainable Development Goals](https://sdgs.un.org/goals)
+* [Global Index on Responsible AI](https://www.responsibleaiindex.org)
+
 ## Organisations
 * [AI in Africa](https://aiinafrica.org). 
 AI in Africa is a platform which delivers forward-thinking initiatives that equip the next generation of leaders with the skills and mindset to succeed tomorrow’s world.
@@ -20,6 +33,9 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [OECD AI Policy Observatory](https://oecd.ai/en/). We provide data and multi-disciplinary analysis on artificial intelligence. Our diverse global community of partners makes this platform a unique source of information and dialogue on AI.
 * [ThinkTech NGO](https://www.thinktech.ngo). ThinkTech is a politically neutral non-governmental organisation. We are committed to the independence and autonomy of ThinkTech’s projects and do not accept funding that is conditioned upon conducting research in a particular manner, achieving a particular result, or taking a predetermined position.
 
+## Publications
+* [Standor Social Innovation Review](https://ssir.org/). 
+
 ## Research Labs
 * [Meta's Data for Good](https://dataforgood.facebook.com/dfg/about).
 * [Microsoft's AI For Good Research Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/).
@@ -28,12 +44,6 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [Digital Public Goods Standard](https://digitalpublicgoods.net/standard/). The Digital Public Goods Standard is a set of specifications and guidelines designed to maximise consensus about whether a digital solution conforms to the definition of a digital public good.
 * [Principles for Digital Development](https://digitalprinciples.org). The Principles for Digital Development are nine living guidelines that are designed to help integrate best practices into technology-enabled programs and are intended to be updated and refined over time.
 
-## Global projects
-* [UN Sustainable Development Goals](https://sdgs.un.org/goals)
 
-## Publications
-* [Standor Social Innovation Review](https://ssir.org/). 
 
-## Funding
-* [Skoll Foundation](https://skoll.org). We invest in social entrepreneurs and other social innovators who offer a compelling vision, creative solutions, and proven approaches.
-* [X-Prize Foundation](https://www.xprize.org). A trusted, proven platform for impact that leverages the power of competition to catalyze innovation and accelerate a more hopeful future by incentivizing radical breakthroughs for the benefit of humanity.
+
