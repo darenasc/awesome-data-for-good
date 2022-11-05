@@ -7,6 +7,8 @@ This repository contains a curated list of resources about Data for Good, Data S
 
 ## Ethics
 
+* The Markkula Center's [An Ethical Toolkit for Engineering/Design Practice](https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/) ([pdf](https://www.scu.edu/media/ethics-center/technology-ethics/Ethics-Toolkit.pdf))
+
 ## Funding
 * [Skoll Foundation](https://skoll.org). We invest in social entrepreneurs and other social innovators who offer a compelling vision, creative solutions, and proven approaches.
 * [X-Prize Foundation](https://www.xprize.org). A trusted, proven platform for impact that leverages the power of competition to catalyze innovation and accelerate a more hopeful future by incentivizing radical breakthroughs for the benefit of humanity.
