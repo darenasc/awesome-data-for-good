@@ -36,6 +36,8 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [ThinkTech NGO](https://www.thinktech.ngo). ThinkTech is a politically neutral non-governmental organisation. We are committed to the independence and autonomy of ThinkTech’s projects and do not accept funding that is conditioned upon conducting research in a particular manner, achieving a particular result, or taking a predetermined position.
 
 ## Publications
+* [The Eurpoean Phisical Journal (EPJ) Data Science](https://epjdatascience.springeropen.com)
+* [Journal of Computational Social Science](https://www.springer.com/journal/42001)
 * [Standor Social Innovation Review](https://ssir.org/). 
 
 ## Research Labs
