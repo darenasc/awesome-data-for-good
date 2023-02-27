@@ -2,6 +2,12 @@
 
 This repository contains a curated list of resources about Data for Good, Data Science for Social Good [Public].
 
+## Books
+
+* [Responsible Data Handbooks](https://the-engine-room.github.io/responsible-data-handbook/). Being, a Complete, Illustrated Guide to Responsible Data Usage, Manners, and General Deportment. The Engine Room, 2021.
+
+## Courses
+
 ## Data Science for Social Good Summer Programs
 * [Projects 2022 eScience Institute](https://escience.washington.edu/2022-data-science-for-social-good-projects/)
 
@@ -47,7 +53,3 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 ## Standards and Guidelines
 * [Digital Public Goods Standard](https://digitalpublicgoods.net/standard/). The Digital Public Goods Standard is a set of specifications and guidelines designed to maximise consensus about whether a digital solution conforms to the definition of a digital public good.
 * [Principles for Digital Development](https://digitalprinciples.org). The Principles for Digital Development are nine living guidelines that are designed to help integrate best practices into technology-enabled programs and are intended to be updated and refined over time.
-
-
-
-
