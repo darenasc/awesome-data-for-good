@@ -35,6 +35,7 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [DataKind](https://www.datakind.org). Our mission is to transform the impact of social change organisations through data science capacity building, for the benefit of the people of the UK and other parts of the world.
 * [DataKindUK](https://datakind.org.uk). Our mission is to transform the impact of social change organisations through data science capacity building, for the benefit of the people of the UK and other parts of the world.
 * [Data Science for Social Good Foundation](http://www.datascienceforsocialgood.org). We create and sustain communities, programs, and solutions that enhance the use of responsible data science and AI for equitable social good.
+* [DSSG Berlin](https://dssg-berlin.org/en/). We help NGOs to make use of their data by connecting them with volunteer data scientists and analysts.
 * [Mechanism Design for Social Good (MD4SG)](https://www.md4sg.com). A multi-institutional initiative using techniques from algorithms, optimization, and mechanism design, along with insights from other disciplines, to improve access to opportunity for historically underserved and disadvantaged communities.
 * [Nesta](https://www.nesta.org.uk). The UK's innovation agency for social good.
 * [Partnership on AI (PAI)](https://partnershiponai.org). Non-profit partnership of academic, civil society, industry, and media organizations creating solutions so that AI advances positive outcomes for people and society.
