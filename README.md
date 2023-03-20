@@ -2,10 +2,6 @@
 
 This repository contains a curated list of resources about Data for Good, Data Science for Social Good [Public].
 
-## Books
-
-* [Responsible Data Handbooks](https://the-engine-room.github.io/responsible-data-handbook/). Being, a Complete, Illustrated Guide to Responsible Data Usage, Manners, and General Deportment. The Engine Room, 2021.
-
 ## Courses
 
 * [Foundations of Humane Technology](https://www.humanetech.com/course). A free, self-paced online course for professionals shaping tomorrow's technology
@@ -14,7 +10,8 @@ This repository contains a curated list of resources about Data for Good, Data S
 
 * [Data Science for Social Good summer at eScience Institute, University of Washington, US](https://escience.washington.edu/using-data-science/data-science-for-social-good/). [(Projects 2022)](https://escience.washington.edu/2022-data-science-for-social-good-projects/)
 * [Data Science for Social Good at Warwick University, UK](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/).
-* [Data Science for Social Good Fellowship at DFKI, Germany](https://sebastian.vollmer.ms/dssg/)
+* [Data Science for Social Good Fellowship at DFKI, Germany](https://sebastian.vollmer.ms/dssg/).
+* [Data Science for Social Good, Munich 2023](https://sites.google.com/view/dssgx-munich-2023/startseite?authuser=0).
 
 ## Ethics
 
@@ -55,6 +52,11 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [The Eurpoean Phisical Journal (EPJ) Data Science](https://epjdatascience.springeropen.com)
 * [Journal of Computational Social Science](https://www.springer.com/journal/42001)
 * [Standor Social Innovation Review](https://ssir.org/). 
+
+## Readings
+
+* [Responsible Data Handbooks](https://the-engine-room.github.io/responsible-data-handbook/). Being, a Complete, Illustrated Guide to Responsible Data Usage, Manners, and General Deportment. The Engine Room, 2021.
+* Whitepaper [The Data for Good Growth Map](https://escience.washington.edu/wp-content/uploads/2021/11/Data4Good_GrowthMap.pdf). Decision Points for Designing a University-Based Data for Good Program (November 2021). eScience Institute, University of Washington, US.
 
 ## Research Labs
 
