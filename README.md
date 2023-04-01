@@ -1,6 +1,20 @@
-# Awesome Data for Good
+# Awesome Data for Good <!-- omit in toc -->
 
-This repository contains a curated list of resources about Data for Good, Data Science for Social Good [Public].
+Curated list of resources about Data for Good, Data Science for Good, Data Science for Social Good, Data Science for Public Good, Data for Humanity.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+## Table of Contents <!-- omit in toc -->
+- [Courses](#courses)
+- [Data Science for Social Good Summer Programs](#data-science-for-social-good-summer-programs)
+- [Ethics](#ethics)
+- [Funding](#funding)
+- [Global projects](#global-projects)
+- [Organisations](#organisations)
+- [Publications](#publications)
+- [Readings](#readings)
+- [Research Labs](#research-labs)
+- [Standards and Guidelines](#standards-and-guidelines)
 
 ## Courses
 
@@ -57,7 +71,8 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 ## Readings
 
 * [Responsible Data Handbooks](https://the-engine-room.github.io/responsible-data-handbook/). Being, a Complete, Illustrated Guide to Responsible Data Usage, Manners, and General Deportment. The Engine Room, 2021.
-* Whitepaper [The Data for Good Growth Map](https://escience.washington.edu/wp-content/uploads/2021/11/Data4Good_GrowthMap.pdf). Decision Points for Designing a University-Based Data for Good Program (November 2021). eScience Institute, University of Washington, US.
+* [The Data for Good Growth Map](https://escience.washington.edu/wp-content/uploads/2021/11/Data4Good_GrowthMap.pdf), whitepaper. Decision Points for Designing a University-Based Data for Good Program (November 2021). eScience Institute, University of Washington, US.
+* [The Open Data Handbook](http://opendatahandbook.org/guide/en/). This handbook discusses the legal, social and technical aspects of open data. It can be used by anyone but is especially designed for those seeking to **open up** data. It discusses the **why, what and how** of open data – why to go open, what open is, and the how to ‘open’ data.
 
 ## Research Labs
 
