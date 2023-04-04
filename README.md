@@ -49,6 +49,7 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [AINow Institute](https://ainowinstitute.org). The AI Now Institute aims to produce interdisciplinary research and public engagement to help ensure that AI systems are accountable to the communities and contexts in which they’re applied.
 * [Correlaid](https://correlaid.org/en/). CorrelAid is a non-partisan non-profit network of data science enthusiasts who want to change the world through data science.
 * [Data2x](https://data2x.org). We drive solutions to fill gender data gaps.
+* [Data for Development Network (D4D.net)](https://www.d4d.net). Advancing the ethical and responsible use of data to address critical development challenges both globally and locally.
 * [Data for Good Canada](https://dataforgood.ca). We are a collective of passionate socially minded people who are empowering social change makers to be better by allowing their data to speak to them.
 * [DataDotOrg](https://data.org): Democratizing data, for good. data.org is a platform for partnerships to build the field of data science for social impact. We work with organizations from all over the world to increase the use of data science in order to improve the lives of millions of people.
 * [DataKind](https://www.datakind.org). Our mission is to transform the impact of social change organisations through data science capacity building, for the benefit of the people of the UK and other parts of the world.
