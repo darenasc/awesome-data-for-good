@@ -14,7 +14,8 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 - [Publications](#publications)
 - [Readings](#readings)
 - [Research Labs](#research-labs)
-- [Standards and Guidelines](#standards-and-guidelines)
+- [Resources](#resources)
+- [Frameworks, Guidelines, and Standards](#frameworks-guidelines-and-standards)
 
 ## Courses
 
@@ -25,7 +26,14 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 * [Data Science for Social Good summer at eScience Institute, University of Washington, US](https://escience.washington.edu/using-data-science/data-science-for-social-good/). [(Projects 2022)](https://escience.washington.edu/2022-data-science-for-social-good-projects/)
 * [Data Science for Social Good at Warwick University, UK](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/).
 * [Data Science for Social Good Fellowship at DFKI, Germany](https://sebastian.vollmer.ms/dssg/).
-* [Data Science for Social Good, Munich 2023](https://sites.google.com/view/dssgx-munich-2023/startseite?authuser=0).
+* [Data Science for Social Good, Munich 2023, Germany](https://sites.google.com/view/dssgx-munich-2023/startseite?authuser=0).
+* [Data Science for Social Good Summer Fellowship at Carnegie Mellon University, US](https://www.dssgfellowship.org).
+* [Data Science for Social Good at Data Science Institute, University of British Columbia, US](https://dsi.ubc.ca/data-science-social-good).
+* [Data Science for Social Good Summer Program at Stanford University, US](https://datascience.stanford.edu/programs/data-science-social-good-summer-program).
+* [Data Science for the Common Good at Center for Data Science, University of Massachussetts Ahmherst, US](https://ds.cs.umass.edu/industry/data-science-common-good).
+* [Data Science for the Public Good, Biocomplexity Institute, University of Virginia, US](https://biocomplexity.virginia.edu/institute/divisions/social-and-decision-analytics/dspg).
+* [Data Science for the Public Good Young Scholars Program, Iowa State University, US](https://dspg.iastate.edu).
+* [Florida Data Science for Social Good (FL-DSSG) Program, US](https://dssg.unf.edu).
 
 ## Ethics
 
@@ -80,9 +88,13 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [Meta's Data for Good](https://dataforgood.facebook.com/dfg/about).
 * [Microsoft's AI For Good Research Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/).
 
-## Standards and Guidelines
+## Resources
+
+* [Data Science for the Public Sector](https://github.com/DS4PS/). Courses and tools to create capacity and attract talent in the public and nonprofit sectors
+* [THE TECH WORKER HANDBOOK](https://techworkerhandbook.org). The Tech Worker Handbook is a collection of resources for tech workers who are looking to make more informed decisions about whether to speak out on issues that are in the public interest.
+
+## Frameworks, Guidelines, and Standards
 
 * [Data maturity framework for the not-for-profit sector](https://static1.squarespace.com/static/5d514d1775e9c90001345670/t/620b8207ec052e35eb5d713c/1644921354014/Data_Orchard_Data_Maturity_Framework_v2.1+2022-14-02.pdf). Version 2.1 © Data Orchard CIC January 2022, replacing version 2 published October 2019 and version 1 created in partnership with DataKind UK in January 2017.
 * [Digital Public Goods Standard](https://digitalpublicgoods.net/standard/). The Digital Public Goods Standard is a set of specifications and guidelines designed to maximise consensus about whether a digital solution conforms to the definition of a digital public good.
 * [Principles for Digital Development](https://digitalprinciples.org). The Principles for Digital Development are nine living guidelines that are designed to help integrate best practices into technology-enabled programs and are intended to be updated and refined over time.
-* [THE TECH WORKER HANDBOOK](https://techworkerhandbook.org). The Tech Worker Handbook is a collection of resources for tech workers who are looking to make more informed decisions about whether to speak out on issues that are in the public interest.
