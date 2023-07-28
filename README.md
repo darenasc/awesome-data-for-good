@@ -94,6 +94,7 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [Data Science for the Public Sector](https://github.com/DS4PS/). Courses and tools to create capacity and attract talent in the public and nonprofit sectors
 * [Data to the People](https://www.datatothepeople.org). Data To The People is a global leader in data literacy assessment and development.
 * [Global Index on Responsible AI](https://www.responsibleaiindex.org). Measuring progress on the responsible use of AI in over 120 countries around the world.
+* [The Humanitarian Data Exchange](https://data.humdata.org). Find, share and use humanitarian data all in one place.
 * [THE TECH WORKER HANDBOOK](https://techworkerhandbook.org). The Tech Worker Handbook is a collection of resources for tech workers who are looking to make more informed decisions about whether to speak out on issues that are in the public interest.
 
 ## Frameworks, Guidelines, and Standards
