@@ -103,3 +103,13 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [Data maturity framework for the not-for-profit sector](https://static1.squarespace.com/static/5d514d1775e9c90001345670/t/620b8207ec052e35eb5d713c/1644921354014/Data_Orchard_Data_Maturity_Framework_v2.1+2022-14-02.pdf). Version 2.1 © Data Orchard CIC January 2022, replacing version 2 published October 2019 and version 1 created in partnership with DataKind UK in January 2017.
 * [Digital Public Goods Standard](https://digitalpublicgoods.net/standard/). The Digital Public Goods Standard is a set of specifications and guidelines designed to maximise consensus about whether a digital solution conforms to the definition of a digital public good.
 * [Principles for Digital Development](https://digitalprinciples.org). The Principles for Digital Development are nine living guidelines that are designed to help integrate best practices into technology-enabled programs and are intended to be updated and refined over time.
+
+## Other awesome awesome repositories
+
+* [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
+* [Awesome GIS](https://github.com/sshuair/awesome-gis)
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
+* [Awesome Python](https://github.com/vinta/awesome-python)
+* [Public APIs](https://github.com/public-apis/public-apis)
+* [Satellite image deep learning](https://github.com/satellite-image-deep-learning/techniques)
