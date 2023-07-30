@@ -3,8 +3,10 @@
 Curated list of resources about Data for Good, Data Science for Good, Data Science for Social Good, Data Science for Public Good, Data for Humanity.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![](https://img.shields.io/github/last-commit/darenasc/awesome-data-for-good/main)
 
 ## Table of Contents <!-- omit in toc -->
+- [Book list](#books)
 - [Courses](#courses)
 - [Data Science for Social Good Summer Programs](#data-science-for-social-good-summer-programs)
 - [Ethics](#ethics)
@@ -16,6 +18,8 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 - [Research Labs](#research-labs)
 - [Resources](#resources)
 - [Frameworks, Guidelines, and Standards](#frameworks-guidelines-and-standards)
+
+## [Books](book-list)
 
 ## Courses
 
@@ -37,6 +41,9 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 
 ## Ethics
 
+* [deon](https://deon.drivendata.org). An ethics checklist for data scientists.
+* [Ethical OS Toolkit](https://ethicalos.org). a guide to anticipating the future impact of today’s technology.
+* [ETHICALLY ALIGNED DESIGN v2](https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf). A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems.
 * The Markkula Center's [An Ethical Toolkit for Engineering/Design Practice](https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/) ([pdf](https://www.scu.edu/media/ethics-center/technology-ethics/Ethics-Toolkit.pdf))
 
 ## Funding
@@ -69,6 +76,7 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [Nesta](https://www.nesta.org.uk). The UK's innovation agency for social good.
 * [Partnership on AI (PAI)](https://partnershiponai.org). Non-profit partnership of academic, civil society, industry, and media organizations creating solutions so that AI advances positive outcomes for people and society.
 * [OECD AI Policy Observatory](https://oecd.ai/en/). We provide data and multi-disciplinary analysis on artificial intelligence. Our diverse global community of partners makes this platform a unique source of information and dialogue on AI.
+* [Viz for social good](https://www.vizforsocialgood.com). Connecting data enthusiasts with mission-driven organizations.
 * [ThinkTech NGO](https://www.thinktech.ngo). ThinkTech is a politically neutral non-governmental organisation. We are committed to the independence and autonomy of ThinkTech’s projects and do not accept funding that is conditioned upon conducting research in a particular manner, achieving a particular result, or taking a predetermined position.
 
 ## Publications
@@ -94,7 +102,9 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [ATLAS of Sustainable Development Goals 2023](https://datatopics.worldbank.org/sdgatlas/). Presents interactive storytelling and data visualizations about the 17 Sustainable Development Goals.
 * [Data Science for the Public Sector](https://github.com/DS4PS/). Courses and tools to create capacity and attract talent in the public and nonprofit sectors
 * [Data to the People](https://www.datatothepeople.org). Data To The People is a global leader in data literacy assessment and development.
+* [GapMinder](https://www.gapminder.org). Gapminder identifies systematic misconceptions about important global trends and proportions and uses reliable data to develop easy to understand teaching materials to rid people of their misconceptions.
 * [Global Index on Responsible AI](https://www.responsibleaiindex.org). Measuring progress on the responsible use of AI in over 120 countries around the world.
+* [Our World in Data](https://ourworldindata.org). Research and data to make progress against the world’s largest problems.
 * [The Humanitarian Data Exchange](https://data.humdata.org). Find, share and use humanitarian data all in one place.
 * [THE TECH WORKER HANDBOOK](https://techworkerhandbook.org). The Tech Worker Handbook is a collection of resources for tech workers who are looking to make more informed decisions about whether to speak out on issues that are in the public interest.
 
@@ -103,6 +113,7 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [Data maturity framework for the not-for-profit sector](https://static1.squarespace.com/static/5d514d1775e9c90001345670/t/620b8207ec052e35eb5d713c/1644921354014/Data_Orchard_Data_Maturity_Framework_v2.1+2022-14-02.pdf). Version 2.1 © Data Orchard CIC January 2022, replacing version 2 published October 2019 and version 1 created in partnership with DataKind UK in January 2017.
 * [Digital Public Goods Standard](https://digitalpublicgoods.net/standard/). The Digital Public Goods Standard is a set of specifications and guidelines designed to maximise consensus about whether a digital solution conforms to the definition of a digital public good.
 * [Principles for Digital Development](https://digitalprinciples.org). The Principles for Digital Development are nine living guidelines that are designed to help integrate best practices into technology-enabled programs and are intended to be updated and refined over time.
+* [The Montréal Declaration for a Responsible Development of Artificial Intelligence](https://montrealdeclaration-responsibleai.com/the-declaration/).
 
 ## Other awesome awesome repositories
 
