@@ -6,7 +6,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 ![](https://img.shields.io/github/last-commit/darenasc/awesome-data-for-good/main)
 
 ## Table of Contents <!-- omit in toc -->
-- [Book list](#books)
+- [Book](#books)
 - [Courses](#courses)
 - [Data Science for Social Good Summer Programs](#data-science-for-social-good-summer-programs)
 - [Ethics](#ethics)
@@ -19,7 +19,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 - [Resources](#resources)
 - [Frameworks, Guidelines, and Standards](#frameworks-guidelines-and-standards)
 
-## [Books](book-list)
+## [Books](book-list.md)
 
 ## Courses
 
