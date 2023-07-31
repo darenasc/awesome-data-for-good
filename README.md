@@ -66,16 +66,22 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [Data2x](https://data2x.org). We drive solutions to fill gender data gaps.
 * [Data for Development Network (D4D.net)](https://www.d4d.net). Advancing the ethical and responsible use of data to address critical development challenges both globally and locally.
 * [Data for Good Canada](https://dataforgood.ca). We are a collective of passionate socially minded people who are empowering social change makers to be better by allowing their data to speak to them.
+* [Data For Good France](https://dataforgood.fr). Accélérateur citoyen d'intérêt général.
+* [Data for Good Madrid](https://www.dataforgoodmad.com). Somos una comunidad de Data Scientists para crear impacto.
+* [Data for Good Netherlands](https://data-for-good.com/#). Empowering People to Overcome the Global Challenges our Planet Faces Together.
+* [DataForGoodBCN](http://dataforgoodbcn.com). Un colectivo de personas voluntarias que usamos nuestras habilidades para ayudar a ONGs y entidades sociales a aprovechar el poder de sus datos.
 * [DataDotOrg](https://data.org): Democratizing data, for good. data.org is a platform for partnerships to build the field of data science for social impact. We work with organizations from all over the world to increase the use of data science in order to improve the lives of millions of people.
 * [DataKind](https://www.datakind.org). Our mission is to transform the impact of social change organisations through data science capacity building, for the benefit of the people of the UK and other parts of the world.
 * [DataKindUK](https://datakind.org.uk). Our mission is to transform the impact of social change organisations through data science capacity building, for the benefit of the people of the UK and other parts of the world.
 * [Data Science for Social Good Foundation](http://www.datascienceforsocialgood.org). We create and sustain communities, programs, and solutions that enhance the use of responsible data science and AI for equitable social good.
+* [Data Science for Social Good Portugal](https://www.dssg.pt/en/home/). We help non-profit, non-governmental and governmental organizations harness the power of their data to improve its impact on the community.
 * [DSSG Berlin](https://dssg-berlin.org/en/). We help NGOs to make use of their data by connecting them with volunteer data scientists and analysts.
 * [DrivenData](https://www.drivendata.org): Data science competitions to build a better world.
 * [Mechanism Design for Social Good (MD4SG)](https://www.md4sg.com). A multi-institutional initiative using techniques from algorithms, optimization, and mechanism design, along with insights from other disciplines, to improve access to opportunity for historically underserved and disadvantaged communities.
 * [Nesta](https://www.nesta.org.uk). The UK's innovation agency for social good.
 * [Partnership on AI (PAI)](https://partnershiponai.org). Non-profit partnership of academic, civil society, industry, and media organizations creating solutions so that AI advances positive outcomes for people and society.
 * [OECD AI Policy Observatory](https://oecd.ai/en/). We provide data and multi-disciplinary analysis on artificial intelligence. Our diverse global community of partners makes this platform a unique source of information and dialogue on AI.
+* [SoGooD²ata](https://sogooddata.org/). Spanish NGO which aims at solving social issues applying data science techniques.
 * [Viz for social good](https://www.vizforsocialgood.com). Connecting data enthusiasts with mission-driven organizations.
 * [ThinkTech NGO](https://www.thinktech.ngo). ThinkTech is a politically neutral non-governmental organisation. We are committed to the independence and autonomy of ThinkTech’s projects and do not accept funding that is conditioned upon conducting research in a particular manner, achieving a particular result, or taking a predetermined position.
 
