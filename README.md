@@ -10,6 +10,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 - [Courses](#courses)
 - [Data Science for Social Good Summer Programs](#data-science-for-social-good-summer-programs)
 - [Ethics](#ethics)
+- [Events](#events)
 - [Funding](#funding)
 - [Global projects](#global-projects)
 - [Organisations](#organisations)
@@ -46,6 +47,11 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 * [ETHICALLY ALIGNED DESIGN v2](https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf). A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems.
 * The Markkula Center's [An Ethical Toolkit for Engineering/Design Practice](https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/) ([pdf](https://www.scu.edu/media/ethics-center/technology-ethics/Ethics-Toolkit.pdf))
 
+## Events
+
+* [AI for Good Global Summit](https://aiforgood.itu.int). AI for Good is a year-round digital platform where AI innovators and problem owners learn, build and connect to identify practical AI solutions to advance the UN SDGs.
+* [Geo for Good Summit 2023](https://earthoutreachonair.withgoogle.com/events/geoforgood23), [2022](https://earthoutreachonair.withgoogle.com/events/geoforgood22), [2021](https://earthoutreachonair.withgoogle.com/events/geoforgood21), [2020](https://earthoutreachonair.withgoogle.com/events/geoforgood20). The Summit is intended for nonprofit, academic, public sector, private sector, and Indigenous peoples and local communities who are using (or want to learn to use) our mapping tools (such as Google Earth, Earth Engine, Environmental Insights Explorer, and My Maps) for planetary sustainability and human resilience around the world.
+
 ## Funding
 
 * [Skoll Foundation](https://skoll.org). We invest in social entrepreneurs and other social innovators who offer a compelling vision, creative solutions, and proven approaches.
@@ -60,7 +66,6 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 
 * [AI in Africa](https://aiinafrica.org). 
 AI in Africa is a platform which delivers forward-thinking initiatives that equip the next generation of leaders with the skills and mindset to succeed tomorrow’s world.
-* [AI for Good Global Summit](https://aiforgood.itu.int). AI for Good is a year-round digital platform where AI innovators and problem owners learn, build and connect to identify practical AI solutions to advance the UN SDGs.
 * [AINow Institute](https://ainowinstitute.org). The AI Now Institute aims to produce interdisciplinary research and public engagement to help ensure that AI systems are accountable to the communities and contexts in which they’re applied.
 * [Correlaid](https://correlaid.org/en/). CorrelAid is a non-partisan non-profit network of data science enthusiasts who want to change the world through data science.
 * [Data2x](https://data2x.org). We drive solutions to fill gender data gaps.
@@ -77,7 +82,7 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [Data Science for Social Good Portugal](https://www.dssg.pt/en/home/). We help non-profit, non-governmental and governmental organizations harness the power of their data to improve its impact on the community.
 * [DSSG Berlin](https://dssg-berlin.org/en/). We help NGOs to make use of their data by connecting them with volunteer data scientists and analysts.
 * [DrivenData](https://www.drivendata.org): Data science competitions to build a better world.
-* [Geo for Good Summit 2023](https://earthoutreachonair.withgoogle.com/events/geoforgood23), [2022](https://earthoutreachonair.withgoogle.com/events/geoforgood22), [2021](https://earthoutreachonair.withgoogle.com/events/geoforgood21), [2020](https://earthoutreachonair.withgoogle.com/events/geoforgood20). The Summit is intended for nonprofit, academic, public sector, private sector, and Indigenous peoples and local communities who are using (or want to learn to use) our mapping tools (such as Google Earth, Earth Engine, Environmental Insights Explorer, and My Maps) for planetary sustainability and human resilience around the world.
+* [Humanitarian OpenStreetMap Team](https://www.hotosm.org). An international team dedicated to humanitarian action and community development through open mapping.
 * [Mechanism Design for Social Good (MD4SG)](https://www.md4sg.com). A multi-institutional initiative using techniques from algorithms, optimization, and mechanism design, along with insights from other disciplines, to improve access to opportunity for historically underserved and disadvantaged communities.
 * [Nesta](https://www.nesta.org.uk). The UK's innovation agency for social good.
 * [Partnership on AI (PAI)](https://partnershiponai.org). Non-profit partnership of academic, civil society, industry, and media organizations creating solutions so that AI advances positive outcomes for people and society.
@@ -110,6 +115,8 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [Data for Good Organisations Map](https://epsilon.cs.ucy.ac.cy/index.php/sample-page/european-map/).
 * [Data Science for the Public Sector](https://github.com/DS4PS/). Courses and tools to create capacity and attract talent in the public and nonprofit sectors
 * [Data to the People](https://www.datatothepeople.org). Data To The People is a global leader in data literacy assessment and development.
+* [Decision Tree for the Responsible Application of AI](https://www.aaas.org/ai2/projects/decision-tree-practitioners). A guide to operationalizing a broad set of principles that AAAS has identified as core components of an ethical approach to developing and implementing artificial intelligence.
+* [fAIr: AI-assisted Mapping](https://github.com/hotosm/fAIr). Open AI-assisted mapping service developed by the [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/) that aims to improve the efficiency and accuracy of mapping efforts for humanitarian purposes.
 * [GapMinder](https://www.gapminder.org). Gapminder identifies systematic misconceptions about important global trends and proportions and uses reliable data to develop easy to understand teaching materials to rid people of their misconceptions.
 * [Global Index on Responsible AI](https://www.responsibleaiindex.org). Measuring progress on the responsible use of AI in over 120 countries around the world.
 * [Our World in Data](https://ourworldindata.org). Research and data to make progress against the world’s largest problems.
