@@ -104,8 +104,9 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [The Data for Good Growth Map](https://escience.washington.edu/wp-content/uploads/2021/11/Data4Good_GrowthMap.pdf), whitepaper. Decision Points for Designing a University-Based Data for Good Program (November 2021). eScience Institute, University of Washington, US.
 * [The Open Data Handbook](http://opendatahandbook.org/guide/en/). This handbook discusses the legal, social and technical aspects of open data. It can be used by anyone but is especially designed for those seeking to **open up** data. It discusses the **why, what and how** of open data – why to go open, what open is, and the how to ‘open’ data.
 
-## Research Labs
+## Research Labs / Institutes
 
+* [The International Peace Information Service (IPIS)](https://ipisresearch.be). An independent research institute providing tailored information, analysis and capacity enhancement to support those actors who want to realize a vision of durable peace, sustainable development and the fulfillment of human rights.
 * [Meta's Data for Good](https://dataforgood.facebook.com/dfg/about).
 * [Microsoft's AI For Good Research Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/).
 
