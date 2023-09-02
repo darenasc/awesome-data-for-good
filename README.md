@@ -16,9 +16,10 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 - [Organisations](#organisations)
 - [Publications](#publications)
 - [Readings](#readings)
-- [Research Labs](#research-labs)
+- [Research](#research)
 - [Resources](#resources)
 - [Frameworks, Guidelines, and Standards](#frameworks-guidelines-and-standards)
+- [Other awesome awesome repositories](#other-awesome-awesome-repositories)
 
 ## [Books](book-list.md)
 
@@ -83,12 +84,14 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [Data Science for Social Good Portugal](https://www.dssg.pt/en/home/). We help non-profit, non-governmental and governmental organizations harness the power of their data to improve its impact on the community.
 * [DSSG Berlin](https://dssg-berlin.org/en/). We help NGOs to make use of their data by connecting them with volunteer data scientists and analysts.
 * [DrivenData](https://www.drivendata.org): Data science competitions to build a better world.
+* [GIZ Data-lab](https://www.blog-datalab.com). Brings together practitioners and creatives to promote the effective, fair, and responsible use of digital data for sustainable development.
 * [Humanitarian OpenStreetMap Team](https://www.hotosm.org). An international team dedicated to humanitarian action and community development through open mapping.
 * [Mechanism Design for Social Good (MD4SG)](https://www.md4sg.com). A multi-institutional initiative using techniques from algorithms, optimization, and mechanism design, along with insights from other disciplines, to improve access to opportunity for historically underserved and disadvantaged communities.
 * [Nesta](https://www.nesta.org.uk). The UK's innovation agency for social good.
 * [Partnership on AI (PAI)](https://partnershiponai.org). Non-profit partnership of academic, civil society, industry, and media organizations creating solutions so that AI advances positive outcomes for people and society.
 * [OECD AI Policy Observatory](https://oecd.ai/en/). We provide data and multi-disciplinary analysis on artificial intelligence. Our diverse global community of partners makes this platform a unique source of information and dialogue on AI.
 * [SoGooD²ata](https://sogooddata.org/). Spanish NGO which aims at solving social issues applying data science techniques.
+* [UN Global Pulse](https://www.unglobalpulse.org). Brings together governments, UN entities and partners from academia and the private sector to design, co-create and scale innovations.
 * [Viz for social good](https://www.vizforsocialgood.com). Connecting data enthusiasts with mission-driven organizations.
 * [ThinkTech NGO](https://www.thinktech.ngo). ThinkTech is a politically neutral non-governmental organisation. We are committed to the independence and autonomy of ThinkTech’s projects and do not accept funding that is conditioned upon conducting research in a particular manner, achieving a particular result, or taking a predetermined position.
 
