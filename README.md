@@ -56,6 +56,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 
 ## Funding
 
+* [Google.org Impact Challenge: Tech for Social Good](https://impactchallenge.withgoogle.com/techforsocialgood). Get up to six months of full-time support from a team of Google.org Fellows and up to €3M funding for ‘Tech for Social Good’ projects.
 * [Skoll Foundation](https://skoll.org). We invest in social entrepreneurs and other social innovators who offer a compelling vision, creative solutions, and proven approaches.
 * [X-Prize Foundation](https://www.xprize.org). A trusted, proven platform for impact that leverages the power of competition to catalyze innovation and accelerate a more hopeful future by incentivizing radical breakthroughs for the benefit of humanity.
 
