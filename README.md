@@ -105,6 +105,7 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 
 ## Readings
 
+* [Charting the 'Data for Good' landscape](https://data.org/news/charting-the-data-for-good-landscape/) by Jake Porway, July 14, 2021.
 * [Responsible Data Handbooks](https://the-engine-room.github.io/responsible-data-handbook/). Being, a Complete, Illustrated Guide to Responsible Data Usage, Manners, and General Deportment. The Engine Room, 2021.
 * [The Data for Good Growth Map](https://escience.washington.edu/wp-content/uploads/2021/11/Data4Good_GrowthMap.pdf), whitepaper. Decision Points for Designing a University-Based Data for Good Program (November 2021). eScience Institute, University of Washington, US.
 * [The Open Data Handbook](http://opendatahandbook.org/guide/en/). This handbook discusses the legal, social and technical aspects of open data. It can be used by anyone but is especially designed for those seeking to **open up** data. It discusses the **why, what and how** of open data – why to go open, what open is, and the how to ‘open’ data.
