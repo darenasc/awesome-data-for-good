@@ -25,6 +25,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 
 ## Courses
 
+* [Data for Social Impact course](https://trainingspi.wustl.edu/courses/data-science-for-social-impact--4f8b9d53-2d3e-42f4-88fd-9f07ebabbdee/salespage) by the  Social Policy Institute (SPI) at Washington University in St. Louis.
 * [Foundations of Humane Technology](https://www.humanetech.com/course). A free, self-paced online course for professionals shaping tomorrow's technology
 
 ## Data Science for Social Good Summer Programs
@@ -105,7 +106,6 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 
 ## Readings
 
-* [Charting the 'Data for Good' landscape](https://data.org/news/charting-the-data-for-good-landscape/) by Jake Porway, July 14, 2021.
 * [Responsible Data Handbooks](https://the-engine-room.github.io/responsible-data-handbook/). Being, a Complete, Illustrated Guide to Responsible Data Usage, Manners, and General Deportment. The Engine Room, 2021.
 * [The Data for Good Growth Map](https://escience.washington.edu/wp-content/uploads/2021/11/Data4Good_GrowthMap.pdf), whitepaper. Decision Points for Designing a University-Based Data for Good Program (November 2021). eScience Institute, University of Washington, US.
 * [The Open Data Handbook](http://opendatahandbook.org/guide/en/). This handbook discusses the legal, social and technical aspects of open data. It can be used by anyone but is especially designed for those seeking to **open up** data. It discusses the **why, what and how** of open data – why to go open, what open is, and the how to ‘open’ data.
@@ -121,6 +121,7 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 ## Resources
 
 * [ATLAS of Sustainable Development Goals 2023](https://datatopics.worldbank.org/sdgatlas/). Presents interactive storytelling and data visualizations about the 17 Sustainable Development Goals.
+* [](https://docs.correlaid.org)
 * [Data for Good Organisations Map](https://epsilon.cs.ucy.ac.cy/index.php/sample-page/european-map/).
 * [Data Science for the Public Sector](https://github.com/DS4PS/). Courses and tools to create capacity and attract talent in the public and nonprofit sectors
 * [Data to the People](https://www.datatothepeople.org). Data To The People is a global leader in data literacy assessment and development.
