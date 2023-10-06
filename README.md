@@ -100,8 +100,9 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 ## Publications
 
 * [Data for Social Good](https://link.springer.com/book/10.1007/978-981-19-5554-9) open access book (2023). Non-Profit Sector Data Projects.
+* [ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization](https://eaamo.org).
 * [The Eurpoean Phisical Journal (EPJ) Data Science](https://epjdatascience.springeropen.com)
-* [Journal of Computational Social Science](https://www.springer.com/journal/42001)
+* [Journal of Computational Social Science](https://www.springer.com/journal/42001).
 * [Stanford Social Innovation Review](https://ssir.org/). 
 
 ## Readings
