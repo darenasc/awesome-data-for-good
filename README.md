@@ -118,7 +118,6 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [Fairness, Accountability, and Transparency in Machine Learning (FATML)](https://www.fatml.org).
 * [Meta's Data for Good](https://dataforgood.facebook.com/dfg/about).
 * [Microsoft's AI For Good Research Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/).
-* [SDG Data Availability Monitor (beta)](https://sdg-monitor.ethz.ch).
 
 ## Resources
 
@@ -132,6 +131,7 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [GapMinder](https://www.gapminder.org). Gapminder identifies systematic misconceptions about important global trends and proportions and uses reliable data to develop easy to understand teaching materials to rid people of their misconceptions.
 * [Global Index on Responsible AI](https://www.responsibleaiindex.org). Measuring progress on the responsible use of AI in over 120 countries around the world.
 * [Our World in Data](https://ourworldindata.org). Research and data to make progress against the world’s largest problems.
+* [SDG Data Availability Monitor (beta)](https://sdg-monitor.ethz.ch).
 * [The Humanitarian Data Exchange](https://data.humdata.org). Find, share and use humanitarian data all in one place.
 * [THE TECH WORKER HANDBOOK](https://techworkerhandbook.org). The Tech Worker Handbook is a collection of resources for tech workers who are looking to make more informed decisions about whether to speak out on issues that are in the public interest.
 
