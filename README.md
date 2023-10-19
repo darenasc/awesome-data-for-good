@@ -118,11 +118,12 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [Fairness, Accountability, and Transparency in Machine Learning (FATML)](https://www.fatml.org).
 * [Meta's Data for Good](https://dataforgood.facebook.com/dfg/about).
 * [Microsoft's AI For Good Research Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/).
+* [SDG Data Availability Monitor (beta)](https://sdg-monitor.ethz.ch).
 
 ## Resources
 
 * [ATLAS of Sustainable Development Goals 2023](https://datatopics.worldbank.org/sdgatlas/). Presents interactive storytelling and data visualizations about the 17 Sustainable Development Goals.
-* [](https://docs.correlaid.org)
+* [Correlaid documentation for Data for Good projects](https://docs.correlaid.org).
 * [Data for Good Organisations Map](https://epsilon.cs.ucy.ac.cy/index.php/sample-page/european-map/).
 * [Data Science for the Public Sector](https://github.com/DS4PS/). Courses and tools to create capacity and attract talent in the public and nonprofit sectors
 * [Data to the People](https://www.datatothepeople.org). Data To The People is a global leader in data literacy assessment and development.
