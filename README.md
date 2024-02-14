@@ -48,6 +48,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 * [Ethical OS Toolkit](https://ethicalos.org). a guide to anticipating the future impact of today’s technology.
 * [Ethically Aligned Design v2](https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf). A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems.
 * The Markkula Center's [An Ethical Toolkit for Engineering/Design Practice](https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/) ([pdf](https://www.scu.edu/media/ethics-center/technology-ethics/Ethics-Toolkit.pdf))
+* [Practical Data Ethics course](https://ethics.fast.ai). 
 * [Practitioner's Guide Data Ethics Toolkits v1.0](https://datakind-ai-ethics.netlify.app/#/). Within this handbook, we attempt to analyze and critique some key tools, packages and software for fairness and explainability of algorithms, in order to assist you when developing techniques around data.
 
 ## Events
