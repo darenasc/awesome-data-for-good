@@ -17,6 +17,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 - [Publications](#publications)
 - [Readings](#readings)
 - [Research](#research)
+  - [Workshops](#workshops)
 - [Resources](#resources)
 - [Frameworks, Guidelines, and Standards](#frameworks-guidelines-and-standards)
 - [Other awesome awesome repositories](#other-awesome-awesome-repositories)
@@ -121,6 +122,12 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [Fairness, Accountability, and Transparency in Machine Learning (FATML)](https://www.fatml.org).
 * [Meta's Data for Good](https://dataforgood.facebook.com/dfg/about).
 * [Microsoft's AI For Good Research Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/).
+
+### Workshops
+* [NeurIPS2018 Workshop](https://aiforsocialgood.github.io/2018/).
+* [ICLR2019 Workshop](https://aiforsocialgood.github.io/iclr2019/)
+* [ICML2019 Workshop](https://aiforsocialgood.github.io/icml2019/)
+* [NeurIPS2019 Joint Workshop on AI for Social Good](https://aiforsocialgood.github.io/neurips2019/index.htm). 
 
 ## Resources
 
