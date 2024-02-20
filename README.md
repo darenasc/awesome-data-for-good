@@ -124,10 +124,10 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [Microsoft's AI For Good Research Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/).
 
 ### Workshops
-* [NeurIPS2018 Workshop](https://aiforsocialgood.github.io/2018/).
-* [ICLR2019 Workshop](https://aiforsocialgood.github.io/iclr2019/)
-* [ICML2019 Workshop](https://aiforsocialgood.github.io/icml2019/)
-* [NeurIPS2019 Joint Workshop on AI for Social Good](https://aiforsocialgood.github.io/neurips2019/index.htm). 
+* [NeurIPS2018 AI For Social Good Workshop (AISG)](https://aiforsocialgood.github.io/2018/).
+* [ICLR2019 AI For Social Good Workshop (AISG)](https://aiforsocialgood.github.io/iclr2019/)
+* [ICML2019 AI For Social Good Workshop (AISG)](https://aiforsocialgood.github.io/icml2019/)
+* [NeurIPS2019 Joint Workshop on AI for Social Good (AISG)](https://aiforsocialgood.github.io/neurips2019/index.htm). 
 
 ## Resources
 
