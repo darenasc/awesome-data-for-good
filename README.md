@@ -14,7 +14,6 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 - [Funding](#funding)
 - [Global projects](#global-projects)
 - [Organisations](#organisations)
-- [Publications](#publications)
 - [Readings](#readings)
 - [Research](#research)
   - [Workshops](#workshops)
@@ -99,15 +98,6 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [Viz for social good](https://www.vizforsocialgood.com). Connecting data enthusiasts with mission-driven organizations.
 * [ThinkTech NGO](https://www.thinktech.ngo). ThinkTech is a politically neutral non-governmental organisation. We are committed to the independence and autonomy of ThinkTech’s projects and do not accept funding that is conditioned upon conducting research in a particular manner, achieving a particular result, or taking a predetermined position.
 
-## Publications
-
-* [Data for Social Good](https://link.springer.com/book/10.1007/978-981-19-5554-9) open access book (2023). Non-Profit Sector Data Projects.
-* [ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization](https://eaamo.org).
-* [ACM GOODIT 2024](https://blogs.uni-bremen.de/goodit2024/). ACM 4th International Conference on Information Technology for Social Good. 4-6 September 2024, Bremen, Germany.
-* [The Eurpoean Phisical Journal (EPJ) Data Science](https://epjdatascience.springeropen.com)
-* [Journal of Computational Social Science](https://www.springer.com/journal/42001).
-* [Stanford Social Innovation Review](https://ssir.org/). 
-
 ## Readings
 
 * [AI for Good: Applications in Sustainability, Humanitarian Action, and Health](https://www.wiley.com/en-us/AI+for+Good%3A+Applications+in+Sustainability%2C+Humanitarian+Action%2C+and+Health-p-9781394235889). Discover how AI leaders and researchers are using AI to transform the world for the better. January 2024, 432 Pages.
@@ -117,11 +107,17 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 
 ## Research
 
+* [ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization](https://eaamo.org).
 * [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/).
-* [The International Peace Information Service (IPIS)](https://ipisresearch.be). An independent research institute providing tailored information, analysis and capacity enhancement to support those actors who want to realize a vision of durable peace, sustainable development and the fulfillment of human rights.
+* [ACM GOODIT 2024](https://blogs.uni-bremen.de/goodit2024/). ACM 4th International Conference on Information Technology for Social Good. 4-6 September 2024, Bremen, Germany.
+* [Data for Social Good](https://link.springer.com/book/10.1007/978-981-19-5554-9) open access book (2023). Non-Profit Sector Data Projects.
+* [Journal of Computational Social Science](https://www.springer.com/journal/42001).
 * [Fairness, Accountability, and Transparency in Machine Learning (FATML)](https://www.fatml.org).
 * [Meta's Data for Good](https://dataforgood.facebook.com/dfg/about).
 * [Microsoft's AI For Good Research Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/).
+* [The Eurpoean Phisical Journal (EPJ) Data Science](https://epjdatascience.springeropen.com)
+* [The International Peace Information Service (IPIS)](https://ipisresearch.be). An independent research institute providing tailored information, analysis and capacity enhancement to support those actors who want to realize a vision of durable peace, sustainable development and the fulfillment of human rights.
+* [Stanford Social Innovation Review](https://ssir.org/). 
 
 ### Workshops
 * [NeurIPS2018 AI For Social Good Workshop (AISG)](https://aiforsocialgood.github.io/2018/).
