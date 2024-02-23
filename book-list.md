@@ -5,8 +5,8 @@
 * [Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor](https://www.goodreads.com/book/show/34964830-automating-inequality). Virginia Eubanks (2018).
 * [Code: And Other Laws of Cyberspace, Version 2.0](https://www.goodreads.com/book/show/44874.Code). Lawrence Lessig (2006). [💾](https://commons.wikimedia.org/wiki/File:Code_v2.pdf)
 * [Corruptible: Who Gets Power and How It Changes Us](https://www.goodreads.com/book/show/56898187-corruptible). Brian Klaas (2021).
-* [Data Feminism](https://www.goodreads.com/book/show/51777543-data-feminism). Catherine D’Ignazio, Lauren F. Klein (2020).
 * [Data Driven Nonprofits](https://www.goodreads.com/book/show/31680472-data-driven-nonprofits). Steve MacLaughlin (2016).
+* [Data Feminism](https://www.goodreads.com/book/show/51777543-data-feminism). Catherine D’Ignazio, Lauren F. Klein (2020).
 * [Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think](https://www.goodreads.com/book/show/34890015-factfulness). Hans Rosling, Ola Rosling, Anna Rosling Rönnlund (2018).
 * [Free Software, Free Society: Selected Essays](https://www.goodreads.com/book/show/942560.Free_Software_Free_Society). Richard M. Stallman, Lawrence Lessig, Joshua Gay (Editor) (2002). [💾](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
 * [Giants: The Global Power Elite](https://www.goodreads.com/book/show/40923001-giants). Peter Phillips (2018).
