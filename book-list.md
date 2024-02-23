@@ -28,6 +28,6 @@
 
 > Note 1: There are downloadable ebooks marked with the 💾 icon, but please consider buying the book from the author.
 
-> Note 2: This is a personal list of books that I think can be relevant in your journey into Data for Good and the local and global issues. These are books that I~~'ve read and~~ can recommend.
+> Note 2: This is a personal list of books that I think can be relevant in your journey into Data for Good and the local and global issues.
 
 > Note 3: Please send me your book recommendations creating a [new issue](https://github.com/darenasc/awesome-data-for-good/issues/new).
