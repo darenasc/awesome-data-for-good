@@ -11,6 +11,7 @@
 * [How an Economy Grows and Why It Crashes](https://www.goodreads.com/book/show/7048818-how-an-economy-grows-and-why-it-crashes). Peter D. Schiff (2010).
 * [Invisible Women: Data Bias in a World Designed for Men](https://www.goodreads.com/book/show/41104077-invisible-women). Caroline Criado Pérez (2019).
 * [Mindf*ck: Cambridge Analytica and the Plot to Break America](https://www.goodreads.com/book/show/52269471-mindf-ck). Christopher Wylie, Graham Halstead (Narrator) (2019).
+* [Not the End of the World: How We Can Be the First Generation to Build a Sustainable Planet](https://www.goodreads.com/book/show/145624737-not-the-end-of-the-world). Hannah Ritchie (2024).
 * [Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty](https://www.goodreads.com/book/show/10245602-poor-economics). Abhijit V. Banerjee, Esther Duflo (2011).
 * [Skin in the Game: The Hidden Asymmetries in Daily Life](https://www.goodreads.com/book/show/36064445-skin-in-the-game). Nassim Nicholas Taleb (2018).
 * [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.goodreads.com/book/show/.26195941-the-age-of-surveillance-capitalism). Shoshana Zuboff (2020).
