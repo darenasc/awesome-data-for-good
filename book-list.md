@@ -3,6 +3,7 @@
 * [Algorithms of Oppression: How Search Engines Reinforce Racism](https://www.goodreads.com/book/show/34762552-algorithms-of-oppression). Safiya Umoja Noble (2018).
 * [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence](https://www.goodreads.com/book/show/50131136-atlas-of-ai). Kate Crawford (2020).
 * [Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor](https://www.goodreads.com/book/show/34964830-automating-inequality). Virginia Eubanks (2018).
+* [Awkward Intelligence: Where AI Goes Wrong, Why It Matters, and What We Can Do about It](https://www.goodreads.com/book/show/60254404-awkward-intelligence). Katharina A Zweig, Noah Harley (Translator) (2022).
 * [Code: And Other Laws of Cyberspace, Version 2.0](https://www.goodreads.com/book/show/44874.Code). Lawrence Lessig (2006). [💾](https://commons.wikimedia.org/wiki/File:Code_v2.pdf)
 * [Corruptible: Who Gets Power and How It Changes Us](https://www.goodreads.com/book/show/56898187-corruptible). Brian Klaas (2021).
 * [Data Driven Nonprofits](https://www.goodreads.com/book/show/31680472-data-driven-nonprofits). Steve MacLaughlin (2016).
@@ -30,6 +31,7 @@
 * [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow). Daniel Kahneman (2011).
 * [Treasure Islands: Uncovering the Damage of Offshore Banking and Tax Havens](https://www.goodreads.com/book/show/10197857-treasure-islands). Nicholas Shaxson (2011).
 * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction). Cathy O'Neil (2016).
+* [Who Owns the Future?](https://www.goodreads.com/book/show/15802693-who-owns-the-future). Jaron Lanier (2013).
 
 > Note 1: There are downloadable ebooks marked with the 💾 icon, but please consider buying the book from the author.
 
