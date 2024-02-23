@@ -26,6 +26,6 @@
 * [Treasure Islands: Uncovering the Damage of Offshore Banking and Tax Havens](https://www.goodreads.com/book/show/10197857-treasure-islands). Nicholas Shaxson (2011).
 * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction). Cathy O'Neil (2016).
 
-> Note 1: This is a personal list of books that I think can be relevant in your journey into Data for Good and the local and global issues. These are books that ~~I've read~~ and can recommend.
+> Note 1: This is a personal list of books that I think can be relevant in your journey into Data for Good and the local and global issues. These are books that I~~'ve read and~~ can recommend.
 
 > Note 2: Please send me your book recommendations creating a [new issue](https://github.com/darenasc/awesome-data-for-good/issues/new).
