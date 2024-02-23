@@ -89,6 +89,7 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [DrivenData](https://www.drivendata.org): Data science competitions to build a better world.
 * [GIZ Data-lab](https://www.blog-datalab.com). Brings together practitioners and creatives to promote the effective, fair, and responsible use of digital data for sustainable development.
 * [Humanitarian OpenStreetMap Team](https://www.hotosm.org). An international team dedicated to humanitarian action and community development through open mapping.
+* [Institute for Accountability in the Digital Age (I4ADA)](https://i4ada.org). The mission is to ensure that those issues and concerns do not undermine the Internet’s potential for increasing access to knowledge, spreading global tolerance and understanding, and promoting sustainable prosperity.
 * [Mechanism Design for Social Good (MD4SG)](https://www.md4sg.com). A multi-institutional initiative using techniques from algorithms, optimization, and mechanism design, along with insights from other disciplines, to improve access to opportunity for historically underserved and disadvantaged communities.
 * [Nesta](https://www.nesta.org.uk). The UK's innovation agency for social good.
 * [Partnership on AI (PAI)](https://partnershiponai.org). Non-profit partnership of academic, civil society, industry, and media organizations creating solutions so that AI advances positive outcomes for people and society.

@@ -22,6 +22,7 @@
 * [Skin in the Game: The Hidden Asymmetries in Daily Life](https://www.goodreads.com/book/show/36064445-skin-in-the-game). Nassim Nicholas Taleb (2018).
 * [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.goodreads.com/book/show/.26195941-the-age-of-surveillance-capitalism). Shoshana Zuboff (2020).
 * [The Boy Who Could Change the World: The Writings of Aaron Swartz](https://www.goodreads.com/book/show/23258925-the-boy-who-could-change-the-world). Aaron Swartz, Lawrence Lessig (Introduction) (2016).
+* [The Black Box Society: The Secret Algorithms That Control Money and Information](https://www.goodreads.com/book/show/21878126-the-black-box-society). Frank Pasquale (2015).
 * [The Black Swan: The Impact of the Highly Improbable](https://www.goodreads.com/book/show/242472.The_Black_Swan). Nassim Nicholas Taleb (2007).
 * [The Drunkard's Walk: How Randomness Rules Our Lives](https://www.goodreads.com/book/show/2272880.The_Drunkard_s_Walk). Leonard Mlodinow (2008).
 * [The Ethical Algorithm: The Science of Socially Aware Algorithm Design](https://www.goodreads.com/book/show/44244975-the-ethical-algorithm). Michael Kearns, Aaron Roth (2019).
