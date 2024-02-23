@@ -2,10 +2,10 @@
 
 * [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence](https://www.goodreads.com/book/show/50131136-atlas-of-ai). Kate Crawford (2020).
 * [Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor](https://www.goodreads.com/book/show/34964830-automating-inequality). Virginia Eubanks (2018).
-* [Code: And Other Laws of Cyberspace, Version 2.0](https://www.goodreads.com/book/show/44874.Code). Lawrence Lessig (2006).
+* [Code: And Other Laws of Cyberspace, Version 2.0](https://www.goodreads.com/book/show/44874.Code). Lawrence Lessig (2006). [💾](https://commons.wikimedia.org/wiki/File:Code_v2.pdf)
 * [Corruptible: Who Gets Power and How It Changes Us](https://www.goodreads.com/book/show/56898187-corruptible). Brian Klaas (2021).
 * [Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think](https://www.goodreads.com/book/show/34890015-factfulness). Hans Rosling, Ola Rosling, Anna Rosling Rönnlund (2018).
-* [Free Software, Free Society: Selected Essays](https://www.goodreads.com/book/show/942560.Free_Software_Free_Society). Richard M. Stallman, Lawrence Lessig, Joshua Gay (Editor) (2002).
+* [Free Software, Free Society: Selected Essays](https://www.goodreads.com/book/show/942560.Free_Software_Free_Society). Richard M. Stallman, Lawrence Lessig, Joshua Gay (Editor) (2002). [💾](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
 * [Giants: The Global Power Elite](https://www.goodreads.com/book/show/40923001-giants). Peter Phillips (2018).
 * [Hello World: How to be Human in the Age of the Machine](https://www.goodreads.com/book/show/39312982-hello-world). Hannah Fry (2018).
 * [How an Economy Grows and Why It Crashes](https://www.goodreads.com/book/show/7048818-how-an-economy-grows-and-why-it-crashes). Peter D. Schiff (2010).
@@ -21,11 +21,13 @@
 * [The Ethical Algorithm: The Science of Socially Aware Algorithm Design](https://www.goodreads.com/book/show/44244975-the-ethical-algorithm). Michael Kearns, Aaron Roth (2019).
 * [The Great Escape: Health, Wealth, and the Origins of Inequality](https://www.goodreads.com/book/show/17942017-the-great-escape). Angus Deaton (2013).
 * [The Hacker Ethic](https://www.goodreads.com/book/show/2052871.The_Hacker_Ethic). Pekka Himanen, Linus Torvalds (Contributor), Manuel Castells (Epilogue) (1999).
-* [The Open Revolution: Rewriting the rules of the information age](https://www.goodreads.com/book/show/40515943-the-open-revolution). Rufus Pollock (2018).
+* [The Open Revolution: Rewriting the rules of the information age](https://www.goodreads.com/book/show/40515943-the-open-revolution). Rufus Pollock (2018). [💾](https://openrevolution.net/media/open-revolution.pdf)
 * [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow). Daniel Kahneman (2011).
 * [Treasure Islands: Uncovering the Damage of Offshore Banking and Tax Havens](https://www.goodreads.com/book/show/10197857-treasure-islands). Nicholas Shaxson (2011).
 * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction). Cathy O'Neil (2016).
 
-> Note 1: This is a personal list of books that I think can be relevant in your journey into Data for Good and the local and global issues. These are books that I~~'ve read and~~ can recommend.
+> Note 1: There are downloadable ebooks marked with the 💾 icon, but please consider buying the book from the author.
 
-> Note 2: Please send me your book recommendations creating a [new issue](https://github.com/darenasc/awesome-data-for-good/issues/new).
+> Note 2: This is a personal list of books that I think can be relevant in your journey into Data for Good and the local and global issues. These are books that I~~'ve read and~~ can recommend.
+
+> Note 3: Please send me your book recommendations creating a [new issue](https://github.com/darenasc/awesome-data-for-good/issues/new).
