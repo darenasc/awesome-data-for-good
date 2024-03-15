@@ -138,6 +138,7 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [fAIr: AI-assisted Mapping](https://github.com/hotosm/fAIr). Open AI-assisted mapping service developed by the [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/) that aims to improve the efficiency and accuracy of mapping efforts for humanitarian purposes.
 * [GapMinder](https://www.gapminder.org). Gapminder identifies systematic misconceptions about important global trends and proportions and uses reliable data to develop easy to understand teaching materials to rid people of their misconceptions.
 * [Global Index on Responsible AI](https://www.responsibleaiindex.org). Measuring progress on the responsible use of AI in over 120 countries around the world.
+* [Global Partnership for Sustainable Development Goals](https://www.data4sdgs.org). A global network using data to achieve the Sustainable Development Goals—improving lives, fighting inequality, and promoting environmental sustainability.
 * [Open Source for Social Sector Organizations](https://socialimpact.github.com/developers//intro-to-open-source/). A guide on how to implement open source for organizations who are driving social impact.
 * [Our World in Data](https://ourworldindata.org). Research and data to make progress against the world’s largest problems.
 * [SDG Data Availability Monitor (beta)](https://sdg-monitor.ethz.ch).
