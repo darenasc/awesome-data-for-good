@@ -55,6 +55,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 
 * [AI for Good Global Summit](https://aiforgood.itu.int). AI for Good is a year-round digital platform where AI innovators and problem owners learn, build and connect to identify practical AI solutions to advance the UN SDGs.
 * [Geo for Good Summit 2023](https://earthoutreachonair.withgoogle.com/events/geoforgood23), [2022](https://earthoutreachonair.withgoogle.com/events/geoforgood22), [2021](https://earthoutreachonair.withgoogle.com/events/geoforgood21), [2020](https://earthoutreachonair.withgoogle.com/events/geoforgood20). The Summit is intended for nonprofit, academic, public sector, private sector, and Indigenous peoples and local communities who are using (or want to learn to use) our mapping tools (such as Google Earth, Earth Engine, Environmental Insights Explorer, and My Maps) for planetary sustainability and human resilience around the world.
+* [Good Tech Fest](https://www.goodtechfest.com). Driving Impact with Emerging Technologies.
 
 ## Funding
 
