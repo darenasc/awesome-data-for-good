@@ -113,6 +113,7 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization](https://eaamo.org).
 * [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/).
 * [ACM GOODIT 2024](https://blogs.uni-bremen.de/goodit2024/). ACM 4th International Conference on Information Technology for Social Good. 4-6 September 2024, Bremen, Germany.
+* [Artificial Intelligence, Ethics, and Society Conference (AAAI/ACM)](https://www.aies-conference.com/2024/).
 * [Data for Social Good](https://link.springer.com/book/10.1007/978-981-19-5554-9) open access book (2023). Non-Profit Sector Data Projects.
 * [Journal of Computational Social Science](https://www.springer.com/journal/42001).
 * [Fairness, Accountability, and Transparency in Machine Learning (FATML)](https://www.fatml.org).
