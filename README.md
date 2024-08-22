@@ -144,6 +144,7 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [Global Partnership for Sustainable Development Goals](https://www.data4sdgs.org). A global network using data to achieve the Sustainable Development Goals—improving lives, fighting inequality, and promoting environmental sustainability.
 * [Open Source for Social Sector Organizations](https://socialimpact.github.com/developers//intro-to-open-source/). A guide on how to implement open source for organizations who are driving social impact.
 * [Our World in Data](https://ourworldindata.org). Research and data to make progress against the world’s largest problems.
+* [UN Global Platform](https://unstats.un.org/bigdata/un-global-platform.cshtml). Data For the World. A global collaboration to harness the power of data for better lives.
 * [SDG Data Availability Monitor (beta)](https://sdg-monitor.ethz.ch).
 * [The Humanitarian Data Exchange](https://data.humdata.org). Find, share and use humanitarian data all in one place.
 * [THE TECH WORKER HANDBOOK](https://techworkerhandbook.org). The Tech Worker Handbook is a collection of resources for tech workers who are looking to make more informed decisions about whether to speak out on issues that are in the public interest.
