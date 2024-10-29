@@ -70,8 +70,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 
 ## Organisations
 
-* [AI in Africa](https://aiinafrica.org). 
-AI in Africa is a platform which delivers forward-thinking initiatives that equip the next generation of leaders with the skills and mindset to succeed tomorrow’s world.
+* [AI in Africa](https://aiinafrica.org). AI in Africa is a platform which delivers forward-thinking initiatives that equip the next generation of leaders with the skills and mindset to succeed tomorrow’s world.
 * [AINow Institute](https://ainowinstitute.org). The AI Now Institute aims to produce interdisciplinary research and public engagement to help ensure that AI systems are accountable to the communities and contexts in which they’re applied.
 * [Correlaid](https://correlaid.org/en/). CorrelAid is a non-partisan non-profit network of data science enthusiasts who want to change the world through data science.
 * [Data2x](https://data2x.org). We drive solutions to fill gender data gaps.
@@ -88,6 +87,7 @@ AI in Africa is a platform which delivers forward-thinking initiatives that equi
 * [Data Science for Social Good Portugal](https://www.dssg.pt/en/home/). We help non-profit, non-governmental and governmental organizations harness the power of their data to improve its impact on the community.
 * [DSSG Berlin](https://dssg-berlin.org/en/). We help NGOs to make use of their data by connecting them with volunteer data scientists and analysts.
 * [DrivenData](https://www.drivendata.org): Data science competitions to build a better world.
+* [EAAMO (Equity and Access in Algorithms, Mechanisms, and Optimization) ](https://www.eaamo.org). A global community of researchers working towards equity and access.
 * [GIZ Data-lab](https://www.blog-datalab.com). Brings together practitioners and creatives to promote the effective, fair, and responsible use of digital data for sustainable development.
 * [Humanitarian OpenStreetMap Team](https://www.hotosm.org). An international team dedicated to humanitarian action and community development through open mapping.
 * [Institute for Accountability in the Digital Age (I4ADA)](https://i4ada.org). The mission is to ensure that those issues and concerns do not undermine the Internet’s potential for increasing access to knowledge, spreading global tolerance and understanding, and promoting sustainable prosperity.
