@@ -138,9 +138,10 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 * [Data Science for the Public Sector](https://github.com/DS4PS/). Courses and tools to create capacity and attract talent in the public and nonprofit sectors
 * [Data to the People](https://www.datatothepeople.org). Data To The People is a global leader in data literacy assessment and development.
 * [Decision Tree for the Responsible Application of AI](https://www.aaas.org/ai2/projects/decision-tree-practitioners). A guide to operationalizing a broad set of principles that AAAS has identified as core components of an ethical approach to developing and implementing artificial intelligence.
-* [DFx Viz Tool](https://data.undp.org/tools/viz-tool). This tool lets you transform numbers into compelling visual stories with ease and precision.
+* [DFx Viz Tool](https://data.undp.org/tools/viz-tool). This UNDP tool lets you transform numbers into compelling visual stories with ease and precision.
 * [fAIr: AI-assisted Mapping](https://github.com/hotosm/fAIr). Open AI-assisted mapping service developed by the [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/) that aims to improve the efficiency and accuracy of mapping efforts for humanitarian purposes.
 * [GapMinder](https://www.gapminder.org). Gapminder identifies systematic misconceptions about important global trends and proportions and uses reliable data to develop easy to understand teaching materials to rid people of their misconceptions.
+* [GeoHub](https://geohub.data.undp.org). UNDP GeoHub is a centralised ecosystem of geospatial services to support staff and development policy makers in the context of SDGs.
 * [Global Index on Responsible AI](https://www.responsibleaiindex.org). Measuring progress on the responsible use of AI in over 120 countries around the world.
 * [Global Partnership for Sustainable Development Goals](https://www.data4sdgs.org). A global network using data to achieve the Sustainable Development Goals—improving lives, fighting inequality, and promoting environmental sustainability.
 * [Open Source for Social Sector Organizations](https://socialimpact.github.com/developers//intro-to-open-source/). A guide on how to implement open source for organizations who are driving social impact.
