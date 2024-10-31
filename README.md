@@ -164,6 +164,4 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 * [Awesome GIS](https://github.com/sshuair/awesome-gis)
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
-* [Awesome Python](https://github.com/vinta/awesome-python)
 * [Public APIs](https://github.com/public-apis/public-apis)
-* [Satellite image deep learning](https://github.com/satellite-image-deep-learning/techniques)
