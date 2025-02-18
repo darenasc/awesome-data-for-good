@@ -21,14 +21,15 @@
 * [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.goodreads.com/book/show/42527493-race-after-technology). Ruha Benjamin (2019).
 * [Skin in the Game: The Hidden Asymmetries in Daily Life](https://www.goodreads.com/book/show/36064445-skin-in-the-game). Nassim Nicholas Taleb (2018).
 * [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.goodreads.com/book/show/.26195941-the-age-of-surveillance-capitalism). Shoshana Zuboff (2020).
-* [The Boy Who Could Change the World: The Writings of Aaron Swartz](https://www.goodreads.com/book/show/23258925-the-boy-who-could-change-the-world). Aaron Swartz, Lawrence Lessig (Introduction) (2016).
 * [The Black Box Society: The Secret Algorithms That Control Money and Information](https://www.goodreads.com/book/show/21878126-the-black-box-society). Frank Pasquale (2015).
 * [The Black Swan: The Impact of the Highly Improbable](https://www.goodreads.com/book/show/242472.The_Black_Swan). Nassim Nicholas Taleb (2007).
+* [The Boy Who Could Change the World: The Writings of Aaron Swartz](https://www.goodreads.com/book/show/23258925-the-boy-who-could-change-the-world). Aaron Swartz, Lawrence Lessig (Introduction) (2016).
 * [The Drunkard's Walk: How Randomness Rules Our Lives](https://www.goodreads.com/book/show/2272880.The_Drunkard_s_Walk). Leonard Mlodinow (2008).
 * [The Ethical Algorithm: The Science of Socially Aware Algorithm Design](https://www.goodreads.com/book/show/44244975-the-ethical-algorithm). Michael Kearns, Aaron Roth (2019).
 * [The Great Escape: Health, Wealth, and the Origins of Inequality](https://www.goodreads.com/book/show/17942017-the-great-escape). Angus Deaton (2013).
 * [The Hacker Ethic](https://www.goodreads.com/book/show/2052871.The_Hacker_Ethic). Pekka Himanen, Linus Torvalds (Contributor), Manuel Castells (Epilogue) (1999).
 * [The Open Revolution: Rewriting the rules of the information age](https://www.goodreads.com/book/show/40515943-the-open-revolution). Rufus Pollock (2018). [💾](https://openrevolution.net/media/open-revolution.pdf)
+* [The Tech Coup: How to Save Democracy from Silicon Valley](https://www.goodreads.com/book/show/208187020-the-tech-coup). Marietje Schaake (2024).
 * [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow). Daniel Kahneman (2011).
 * [Treasure Islands: Uncovering the Damage of Offshore Banking and Tax Havens](https://www.goodreads.com/book/show/10197857-treasure-islands). Nicholas Shaxson (2011).
 * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction). Cathy O'Neil (2016).
