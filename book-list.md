@@ -17,6 +17,7 @@
 * [Invisible Women: Data Bias in a World Designed for Men](https://www.goodreads.com/book/show/41104077-invisible-women). Caroline Criado Pérez (2019).
 * [Mindf*ck: Cambridge Analytica and the Plot to Break America](https://www.goodreads.com/book/show/52269471-mindf-ck). Christopher Wylie, Graham Halstead (Narrator) (2019).
 * [Not the End of the World: How We Can Be the First Generation to Build a Sustainable Planet](https://www.goodreads.com/book/show/145624737-not-the-end-of-the-world). Hannah Ritchie (2024).
+* [⿻ 數位 Plurality: The Future of Collaborative Technology and Democracy](https://www.goodreads.com/book/show/211810531-plurality?from_search=true&from_srp=true&qid=fP0ngmzFnu&rank=1). E. Glen Weyl, ⿻ Community (contributor), Audrey Tang (2024). [💾](https://www.plurality.net/v/eng/)
 * [Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty](https://www.goodreads.com/book/show/10245602-poor-economics). Abhijit V. Banerjee, Esther Duflo (2011).
 * [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.goodreads.com/book/show/42527493-race-after-technology). Ruha Benjamin (2019).
 * [Skin in the Game: The Hidden Asymmetries in Daily Life](https://www.goodreads.com/book/show/36064445-skin-in-the-game). Nassim Nicholas Taleb (2018).
