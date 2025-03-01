@@ -8,6 +8,7 @@
 * [Corruptible: Who Gets Power and How It Changes Us](https://www.goodreads.com/book/show/56898187-corruptible). Brian Klaas (2021).
 * [Data Driven Nonprofits](https://www.goodreads.com/book/show/31680472-data-driven-nonprofits). Steve MacLaughlin (2016).
 * [Data Feminism](https://www.goodreads.com/book/show/51777543-data-feminism). Catherine D’Ignazio, Lauren F. Klein (2020).
+* [Designing Freedom](https://www.goodreads.com/book/show/25891345-designing-freedom). Stafford Beer (1974). [🔈](https://www.cbc.ca/radio/ideas/the-1973-cbc-massey-lectures-designing-freedom-1.2946819)
 * [Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think](https://www.goodreads.com/book/show/34890015-factfulness). Hans Rosling, Ola Rosling, Anna Rosling Rönnlund (2018).
 * [Free Software, Free Society: Selected Essays](https://www.goodreads.com/book/show/942560.Free_Software_Free_Society). Richard M. Stallman, Lawrence Lessig, Joshua Gay (Editor) (2002). [💾](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
 * [Giants: The Global Power Elite](https://www.goodreads.com/book/show/40923001-giants). Peter Phillips (2018).
@@ -36,7 +37,7 @@
 * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction). Cathy O'Neil (2016).
 * [Who Owns the Future?](https://www.goodreads.com/book/show/15802693-who-owns-the-future). Jaron Lanier (2013).
 
-> Note 1: There are downloadable ebooks marked with the 💾 icon, but please consider buying the book from the author.
+> Note 1: There are downloadable ebooks marked with the 💾 icon and audiobooks with the 🔈 icon, but please consider buying the book from the author.
 
 > Note 2: This is a personal list of books that I think can be relevant in your journey into Data for Good and the local and global issues.
 
