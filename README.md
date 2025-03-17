@@ -4,6 +4,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![](https://img.shields.io/github/last-commit/darenasc/awesome-data-for-good/main)
+![](https://img.shields.io/github/stars/darenasc/awesome-data-for-good?style=social)
 
 ## Table of Contents <!-- omit in toc -->
 - [Books](#books)

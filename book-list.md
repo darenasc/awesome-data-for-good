@@ -4,6 +4,7 @@
 * [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence](https://www.goodreads.com/book/show/50131136-atlas-of-ai). Kate Crawford (2020).
 * [Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor](https://www.goodreads.com/book/show/34964830-automating-inequality). Virginia Eubanks (2018).
 * [Awkward Intelligence: Where AI Goes Wrong, Why It Matters, and What We Can Do about It](https://www.goodreads.com/book/show/60254404-awkward-intelligence). Katharina A Zweig, Noah Harley (Translator) (2022).
+* [Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism](https://www.goodreads.com/book/show/223436601-careless-people). Sarah Wynn-Williams (2025).
 * [Code: And Other Laws of Cyberspace, Version 2.0](https://www.goodreads.com/book/show/44874.Code). Lawrence Lessig (2006). [💾](https://commons.wikimedia.org/wiki/File:Code_v2.pdf)
 * [Corruptible: Who Gets Power and How It Changes Us](https://www.goodreads.com/book/show/56898187-corruptible). Brian Klaas (2021).
 * [Data Driven Nonprofits](https://www.goodreads.com/book/show/31680472-data-driven-nonprofits). Steve MacLaughlin (2016).
