@@ -22,6 +22,7 @@
 * [Not the End of the World: How We Can Be the First Generation to Build a Sustainable Planet](https://www.goodreads.com/book/show/145624737-not-the-end-of-the-world). Hannah Ritchie (2024).
 * [⿻ 數位 Plurality: The Future of Collaborative Technology and Democracy](https://www.goodreads.com/book/show/211810531-plurality?from_search=true&from_srp=true&qid=fP0ngmzFnu&rank=1). E. Glen Weyl, ⿻ Community (contributor), Audrey Tang (2024). [💾](https://www.plurality.net/chapters/)
 * [Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty](https://www.goodreads.com/book/show/10245602-poor-economics). Abhijit V. Banerjee, Esther Duflo (2011).
+* [Programming Differential Privacy](https://programming-dp.com). Joseph P. Near and Chiké Abuah (2021). [💾](https://programming-dp.com/book.pdf)
 * [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.goodreads.com/book/show/42527493-race-after-technology). Ruha Benjamin (2019).
 * [Skin in the Game: The Hidden Asymmetries in Daily Life](https://www.goodreads.com/book/show/36064445-skin-in-the-game). Nassim Nicholas Taleb (2018).
 * [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.goodreads.com/book/show/.26195941-the-age-of-surveillance-capitalism). Shoshana Zuboff (2020).
