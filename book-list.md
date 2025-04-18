@@ -35,6 +35,7 @@
 * [The Hacker Ethic](https://www.goodreads.com/book/show/2052871.The_Hacker_Ethic). Pekka Himanen, Linus Torvalds (Contributor), Manuel Castells (Epilogue) (1999).
 * [The Open Revolution: Rewriting the rules of the information age](https://www.goodreads.com/book/show/40515943-the-open-revolution). Rufus Pollock (2018). [💾](https://openrevolution.net/media/open-revolution.pdf)
 * [The Tech Coup: How to Save Democracy from Silicon Valley](https://www.goodreads.com/book/show/208187020-the-tech-coup). Marietje Schaake (2024).
+* [Think Stats: Exploratory Data Analysis, 3rd edition](https://www.goodreads.com/book/show/231074472-think-stats). Allen Downey (2025). [💾](https://allendowney.github.io/ThinkStats/index.html)
 * [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow). Daniel Kahneman (2011).
 * [Treasure Islands: Uncovering the Damage of Offshore Banking and Tax Havens](https://www.goodreads.com/book/show/10197857-treasure-islands). Nicholas Shaxson (2011).
 * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction). Cathy O'Neil (2016).
