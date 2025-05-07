@@ -33,6 +33,7 @@
 * [The Ethical Algorithm: The Science of Socially Aware Algorithm Design](https://www.goodreads.com/book/show/44244975-the-ethical-algorithm). Michael Kearns, Aaron Roth (2019).
 * [The Great Escape: Health, Wealth, and the Origins of Inequality](https://www.goodreads.com/book/show/17942017-the-great-escape). Angus Deaton (2013).
 * [The Hacker Ethic](https://www.goodreads.com/book/show/2052871.The_Hacker_Ethic). Pekka Himanen, Linus Torvalds (Contributor), Manuel Castells (Epilogue) (1999).
+* [The New Empire of AI: The Future of Global Inequality](https://www.goodreads.com/book/show/214944941-the-new-empire-of-ai). Rachel Adams (2025).
 * [The Open Revolution: Rewriting the rules of the information age](https://www.goodreads.com/book/show/40515943-the-open-revolution). Rufus Pollock (2018). [💾](https://openrevolution.net/media/open-revolution.pdf)
 * [The Tech Coup: How to Save Democracy from Silicon Valley](https://www.goodreads.com/book/show/208187020-the-tech-coup). Marietje Schaake (2024).
 * [Think Stats: Exploratory Data Analysis, 3rd edition](https://www.goodreads.com/book/show/231074472-think-stats). Allen Downey (2025). [💾](https://allendowney.github.io/ThinkStats/index.html)
