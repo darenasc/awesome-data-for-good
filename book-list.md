@@ -11,6 +11,7 @@
 * [Data Feminism](https://www.goodreads.com/book/show/51777543-data-feminism). Catherine D’Ignazio, Lauren F. Klein (2020).
 * [Designing Freedom](https://www.goodreads.com/book/show/25891345-designing-freedom). Stafford Beer (1974). [🔈](https://www.cbc.ca/radio/ideas/the-1973-cbc-massey-lectures-designing-freedom-1.2946819)
 * [Differential Privacy](https://direct.mit.edu/books/book/5935/Differential-Privacy). Simson L. Garfinkel (2025). [💾](https://direct.mit.edu/books/book-pdf/2509392/book_9780262382168.pdf)
+* [Empire of AI: Inside the reckless race for total domination](https://www.goodreads.com/book/show/227601327-empire-of-ai). Karen Hao (2025).
 * [Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think](https://www.goodreads.com/book/show/34890015-factfulness). Hans Rosling, Ola Rosling, Anna Rosling Rönnlund (2018).
 * [Free Software, Free Society: Selected Essays](https://www.goodreads.com/book/show/942560.Free_Software_Free_Society). Richard M. Stallman, Lawrence Lessig, Joshua Gay (Editor) (2002). [💾](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
 * [Giants: The Global Power Elite](https://www.goodreads.com/book/show/40923001-giants). Peter Phillips (2018).
