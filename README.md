@@ -91,6 +91,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 * [EAAMO (Equity and Access in Algorithms, Mechanisms, and Optimization) ](https://www.eaamo.org). A global community of researchers working towards equity and access.
 * [GIZ Data-lab](https://www.blog-datalab.com). Brings together practitioners and creatives to promote the effective, fair, and responsible use of digital data for sustainable development.
 * [Humanitarian OpenStreetMap Team](https://www.hotosm.org). An international team dedicated to humanitarian action and community development through open mapping.
+* [IEEE Humanitarian Technologies](https://ieeeht.org). The IEEE Humanitarian Technologies mission is to support impactful and ethically informed volunteer-led initiatives, programs and projects.
 * [Institute for Accountability in the Digital Age (I4ADA)](https://i4ada.org). The mission is to ensure that those issues and concerns do not undermine the Internet’s potential for increasing access to knowledge, spreading global tolerance and understanding, and promoting sustainable prosperity.
 * [Mechanism Design for Social Good (MD4SG)](https://www.md4sg.com). A multi-institutional initiative using techniques from algorithms, optimization, and mechanism design, along with insights from other disciplines, to improve access to opportunity for historically underserved and disadvantaged communities.
 * [Nesta](https://www.nesta.org.uk). The UK's innovation agency for social good.
