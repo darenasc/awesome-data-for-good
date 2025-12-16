@@ -148,6 +148,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 * [Global Partnership for Sustainable Development Goals](https://www.data4sdgs.org). A global network using data to achieve the Sustainable Development Goals—improving lives, fighting inequality, and promoting environmental sustainability.
 * [Open Source for Social Sector Organizations](https://socialimpact.github.com/developers//intro-to-open-source/). A guide on how to implement open source for organizations who are driving social impact.
 * [Our World in Data](https://ourworldindata.org). Research and data to make progress against the world’s largest problems.
+* [UN AI Resource Hub](https://unaihub.aiforgood.itu.int). Explore and share AI-related activities from across the UN system, access resources, foster collaboration, and build on existing initiatives effectively..
 * [UN Global Platform](https://unstats.un.org/bigdata/un-global-platform.cshtml). Data For the World. A global collaboration to harness the power of data for better lives.
 * [SDG Data Availability Monitor (beta)](https://sdg-monitor.ethz.ch).
 * [The Humanitarian Data Exchange](https://data.humdata.org). Find, share and use humanitarian data all in one place.
