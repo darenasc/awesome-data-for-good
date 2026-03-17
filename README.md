@@ -153,6 +153,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 * [SDG Data Availability Monitor (beta)](https://sdg-monitor.ethz.ch).
 * [The Humanitarian Data Exchange](https://data.humdata.org). Find, share and use humanitarian data all in one place.
 * [THE TECH WORKER HANDBOOK](https://techworkerhandbook.org). The Tech Worker Handbook is a collection of resources for tech workers who are looking to make more informed decisions about whether to speak out on issues that are in the public interest.
+* [Work in Data4Good!](https://data4good.work). A list of organizations that leverage data for social and environmental good.
 
 ## Frameworks, Guidelines, and Standards
 
