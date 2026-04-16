@@ -55,7 +55,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 ## Events
 
 * [AI for Good Global Summit](https://aiforgood.itu.int). AI for Good is a year-round digital platform where AI innovators and problem owners learn, build and connect to identify practical AI solutions to advance the UN SDGs.
-* [Geo for Good Summit 2024](https://earthoutreachonair.withgoogle.com/events/geoforgood24-dublin), [2023](https://earthoutreachonair.withgoogle.com/events/geoforgood23), [2022](https://earthoutreachonair.withgoogle.com/events/geoforgood22), [2021](https://earthoutreachonair.withgoogle.com/events/geoforgood21), [2020](https://earthoutreachonair.withgoogle.com/events/geoforgood20). The Summit is intended for nonprofit, academic, public sector, private sector, and Indigenous peoples and local communities who are using (or want to learn to use) our mapping tools (such as Google Earth, Earth Engine, Environmental Insights Explorer, and My Maps) for planetary sustainability and human resilience around the world.
+* [Geo for Good Summit 2025](https://earthoutreachonair.withgoogle.com/events/geoforgood25-nyc), [2024](https://earthoutreachonair.withgoogle.com/events/geoforgood24-dublin), [2023](https://earthoutreachonair.withgoogle.com/events/geoforgood23), [2022](https://earthoutreachonair.withgoogle.com/events/geoforgood22), [2021](https://earthoutreachonair.withgoogle.com/events/geoforgood21), [2020](https://earthoutreachonair.withgoogle.com/events/geoforgood20). The Summit is intended for nonprofit, academic, public sector, private sector, and Indigenous peoples and local communities who are using (or want to learn to use) our mapping tools (such as Google Earth, Earth Engine, Environmental Insights Explorer, and My Maps) for planetary sustainability and human resilience around the world.
 * [Good Tech Fest](https://www.goodtechfest.com). Driving Impact with Emerging Technologies.
 
 ## Funding
@@ -72,7 +72,6 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 ## Organisations
 
 * [AI in Africa](https://aiinafrica.org). AI in Africa is a platform which delivers forward-thinking initiatives that equip the next generation of leaders with the skills and mindset to succeed tomorrow’s world.
-* [AINow Institute](https://ainowinstitute.org). The AI Now Institute aims to produce interdisciplinary research and public engagement to help ensure that AI systems are accountable to the communities and contexts in which they’re applied.
 * [Correlaid](https://correlaid.org/en/). CorrelAid is a non-partisan non-profit network of data science enthusiasts who want to change the world through data science.
 * [Data2x](https://data2x.org). We drive solutions to fill gender data gaps.
 * [Data for Development Network (D4D.net)](https://www.d4d.net). Advancing the ethical and responsible use of data to address critical development challenges both globally and locally.
@@ -115,8 +114,10 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 * [ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization](https://eaamo.org).
 * [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/).
 * [ACM GOODIT 2024](https://blogs.uni-bremen.de/goodit2024/). ACM 4th International Conference on Information Technology for Social Good. 4-6 September 2024, Bremen, Germany.
+* [AINow Institute](https://ainowinstitute.org). The AI Now Institute aims to produce interdisciplinary research and public engagement to help ensure that AI systems are accountable to the communities and contexts in which they’re applied.
 * [Artificial Intelligence, Ethics, and Society Conference (AAAI/ACM)](https://www.aies-conference.com/2024/).
 * [Data for Social Good](https://link.springer.com/book/10.1007/978-981-19-5554-9) open access book (2023). Non-Profit Sector Data Projects.
+* [Distributed AI Research Institute](https://www.dair-institute.org). The Distributed AI Research Institute is an independent organization conducting community-rooted research..
 * [Journal of Computational Social Science](https://www.springer.com/journal/42001).
 * [Fairness, Accountability, and Transparency in Machine Learning (FATML)](https://www.fatml.org).
 * [Meta's Data for Good](https://dataforgood.facebook.com/dfg/about).
