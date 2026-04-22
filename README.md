@@ -138,6 +138,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 * [Civic Tech Field Guida](https://civictech.guide). Discover the world’s largest collection of projects using tech for the common good.
 * [Correlaid documentation for Data for Good projects](https://docs.correlaid.org).
 * [Correlaid's Projects Database](https://www.correlaid.org/en/using-data/project-database/)
+* [Crime Brasil](https://crimebrasil.com.br). Open-data platform consolidating and geocoding Brazilian crime statistics from state-police sources (~3M incidents across RS neighborhoods + MG/RJ municipalities + national PRF/DATASUS). Free REST API, CSV exports, CC BY 4.0. Built for journalists, researchers, and civic-tech projects.
 * [Data for Good Organisations Map](https://epsilon.cs.ucy.ac.cy/index.php/sample-page/european-map/).
 * [Data Science for the Public Sector](https://github.com/DS4PS/). Courses and tools to create capacity and attract talent in the public and nonprofit sectors
 * [Data to the People](https://www.datatothepeople.org). Data To The People is a global leader in data literacy assessment and development.
