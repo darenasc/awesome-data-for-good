@@ -115,7 +115,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 * [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/).
 * [ACM GOODIT 2024](https://blogs.uni-bremen.de/goodit2024/). ACM 4th International Conference on Information Technology for Social Good. 4-6 September 2024, Bremen, Germany.
 * [AINow Institute](https://ainowinstitute.org). The AI Now Institute aims to produce interdisciplinary research and public engagement to help ensure that AI systems are accountable to the communities and contexts in which they’re applied.
-* [Artificial Intelligence, Ethics, and Society Conference (AAAI/ACM)](https://www.aies-conference.com/2024/).
+* [Artificial Intelligence, Ethics, and Society Conference (AAAI/ACM) 2026](https://www.aies-conference.com/2026/), [2025](https://www.aies-conference.com/2025/), [2024](https://www.aies-conference.com/2024/), [2023](https://www.aies-conference.com/2023/), [2022](https://www.aies-conference.com/2022/), [2021](https://www.aies-conference.com/2021/), [2020](https://www.aies-conference.com/2020/), [2019](https://www.aies-conference.com/2019/), [2018](https://www.aies-conference.com/2018/).
 * [Data for Social Good](https://link.springer.com/book/10.1007/978-981-19-5554-9) open access book (2023). Non-Profit Sector Data Projects.
 * [Distributed AI Research Institute](https://www.dair-institute.org). The Distributed AI Research Institute is an independent organization conducting community-rooted research..
 * [Journal of Computational Social Science](https://www.springer.com/journal/42001).
