@@ -154,6 +154,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 * [UN AI Resource Hub](https://unaihub.aiforgood.itu.int). Explore and share AI-related activities from across the UN system, access resources, foster collaboration, and build on existing initiatives effectively..
 * [UN Global Platform](https://unstats.un.org/bigdata/un-global-platform.cshtml). Data For the World. A global collaboration to harness the power of data for better lives.
 * [SDG Data Availability Monitor (beta)](https://sdg-monitor.ethz.ch).
+* [The AI Resist List](https://airesistlist.org). Actions against the empire of AI.
 * [The Humanitarian Data Exchange](https://data.humdata.org). Find, share and use humanitarian data all in one place.
 * [THE TECH WORKER HANDBOOK](https://techworkerhandbook.org). The Tech Worker Handbook is a collection of resources for tech workers who are looking to make more informed decisions about whether to speak out on issues that are in the public interest.
 * [World Inequality Database](https://wid.world).
