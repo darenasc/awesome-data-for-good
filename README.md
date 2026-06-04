@@ -72,6 +72,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 ## Organisations
 
 * [AI in Africa](https://aiinafrica.org). AI in Africa is a platform which delivers forward-thinking initiatives that equip the next generation of leaders with the skills and mindset to succeed tomorrow’s world.
+* [AI + Planetary Justice Alliance](https://aiplanetaryjustice.com). Exploring the planetary justice impacts of AI across its supply chain.
 * [Correlaid](https://correlaid.org/en/). CorrelAid is a non-partisan non-profit network of data science enthusiasts who want to change the world through data science.
 * [Data2x](https://data2x.org). We drive solutions to fill gender data gaps.
 * [Data for Development Network (D4D.net)](https://www.d4d.net). Advancing the ethical and responsible use of data to address critical development challenges both globally and locally.
