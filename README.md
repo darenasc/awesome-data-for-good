@@ -19,6 +19,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 - [Research](#research)
   - [Workshops](#workshops)
 - [Resources](#resources)
+  - [Tools and libraries](#tools-and-libraries)
 - [Frameworks, Guidelines, and Standards](#frameworks-guidelines-and-standards)
 - [Other awesome awesome repositories](#other-awesome-awesome-repositories)
 
@@ -161,6 +162,10 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 * [THE TECH WORKER HANDBOOK](https://techworkerhandbook.org). The Tech Worker Handbook is a collection of resources for tech workers who are looking to make more informed decisions about whether to speak out on issues that are in the public interest.
 * [World Inequality Database](https://wid.world).
 * [Work in Data4Good!](https://data4good.work). A list of organizations that leverage data for social and environmental good.
+
+### Tools and libraries
+
+* [PhilanthroPy](https://github.com/PhilanthroPy-Project/PhilanthroPy). Open-source scikit-learn native toolkit for nonprofit fundraising analytics: leakage-safe donor propensity, lapse, planned-giving, wealth-screening and revenue-forecasting estimators.
 
 ## Frameworks, Guidelines, and Standards
 
