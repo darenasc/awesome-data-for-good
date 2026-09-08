@@ -22,6 +22,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
   - [Tools and libraries](#tools-and-libraries)
 - [Frameworks, Guidelines, and Standards](#frameworks-guidelines-and-standards)
 - [Other awesome awesome repositories](#other-awesome-awesome-repositories)
+- [Contribute](#contribute)
 
 ## [Books](book-list.md)
 
@@ -184,3 +185,7 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
 * [Public APIs](https://github.com/public-apis/public-apis)
+
+## Contribute
+
+Read the [CONTRIBUTING](./CONTRIBUTING.md) guideline to recommend your favourite Data for Good resource.
