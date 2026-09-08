@@ -188,4 +188,4 @@ Curated list of resources about Data for Good, Data Science for Good, Data Scien
 
 ## Contribute
 
-Read the [CONTRIBUTING](./CONTRIBUTING.md) guideline to recommend your favourite Data for Good resource.
+Read the [CONTRIBUTING](CONTRIBUTING.md) guideline to recommend your favourite Data for Good resource.
