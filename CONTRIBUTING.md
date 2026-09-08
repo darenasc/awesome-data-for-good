@@ -1,9 +1,8 @@
-<!-- omit in toc -->
 # Contributing to Awesome Data for Good
 
 First off, thanks for taking the time to contribute! ❤️
 
-## Send your favorite Data for Good stuff
+## Share your favorite Data for Good item
 
 What we are looking for? Data for Good...
 
@@ -24,7 +23,7 @@ What we are looking for? Data for Good...
 
 ## How to contribute?
 
-Feel free to recommend one or more Data for Good resources.
+Feel free to recommend one or more Data for Good items.
 
 - Open an [Issue](https://github.com/darenasc/awesome-data-for-good/issues/new).
 - Provide a **name**, an **URL** and a brief **description** (ideally taken from the source) about your recommendation(s).
@@ -47,7 +46,7 @@ I will then take care of the issue as soon as possible.
 > - Bluesky about it
 > - Refer this project in your project's readme
 > - Mention the project at local meetups and tell your friends/colleagues
-> 
-<!-- omit in toc -->
+
+
 ## Attribution
 This guide is based on the [contributing.md](https://contributing.md/generator)!
